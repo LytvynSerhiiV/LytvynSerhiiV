@@ -1,6 +1,6 @@
 <img src="https://github.com/SergeyLitvin/SergeyLitvin/blob/main/assets/img/Title-banner-github-profile.png">
 
-### Hi everyone, I'm Sergey 👋
+### Hi everyone, I'm Serhii 👋
 
 
 ## I'm a Front-end Developer!
@@ -18,7 +18,7 @@
 
 ### 🤝 Hire me:
 
-[<img alt="Sergey Litvin | Resume" src="https://img.shields.io/badge/-Download Resume-blue" />][resume]
+[<img alt="Serhii Lytvyn | CV" src="https://img.shields.io/badge/-Download Resume-blue" />][resume]
 
 
 [instagram]: https://www.instagram.com/serg.litvin/
